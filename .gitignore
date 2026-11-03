@@ -31,3 +31,9 @@ Thumbs.db
 opencode.json
 .opencode/
 
+
+# Local scratch / unrelated files
+IEEEXtreme19-Complete.tex
+frontend/pnpm-lock.yaml
+backend/probe.js
+backend/scripts/seed-demo.js
